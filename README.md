@@ -6,7 +6,7 @@
 
 | Platform | Language | Branch Link | Focus Area |
 | :--- | :--- | :--- | :--- |
-| **HackerRank** | Python | [View Branch](https://github.com/anuushka/-Algorithms-and-Data-Structures-HackerRank-Codeforces-LeetCode/tree/Python) | Language Mastery |
+| **HackerRank** | Python | [View Branch](https://github.com/anuushka/-Algorithms-and-Data-Structures-HackerRank-Codeforces-LeetCode/tree/Python) | Language Mastery: Python (main), C++ |
 | **LeetCode** | C++ / Py | [View Branch](https://github.com/anuushka/-Algorithms-and-Data-Structures-HackerRank-Codeforces-LeetCode/tree/LeetCode) | Interview Patterns: DP, Array, Pointer, Queue, Stack, Dictionary, Linked List, Graph, Trees |
 | **Codeforces** | C++ | [View Branch](https://github.com/anuushka/-Algorithms-and-Data-Structures-HackerRank-Codeforces-LeetCode/tree/Codeforces) | Advanced Math & Optimization: Sorting, DSU, BFS, DFS, Euler, Hamiltonian, Bipartite, Kruskal, Dijkstra, KMP |
 
